@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AmpliandoQuiz</string>
+    <string name="Cap">Capitales</string>
+    <string name="Serp">Serpientes</string>
+    <string name="MiddleEarth">Tierra media de tolkien</string>
+    <string name="Nier">Nier</string>
+    <string name="Yautja">Depredador</string>
+    <string name="Cate">Categorías</string>
+    <string name="Selec">Selecciona una respuesta</string>
+    <string name="PregActual">¿¿??</string>
+    <string name="ResVacia">-</string>
+</resources>
